@@ -1,0 +1,42 @@
+#main {
+    text-align: center;
+    align-content: center;
+    margin-top: 1.3cm;
+}
+#title {
+    text-decoration: solid;
+    text-align: center;
+    margin-top: 1.0cm;
+}
+#image {
+    max-width: fit-content;
+    height: fit-content;
+    align-items: center;
+    margin-top: 1.0cm;
+}
+#img-caption p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+#timeline {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    text-align: center;
+}
+section {
+    font-size: 1.0rem;
+    text-align: center;
+    text-decoration: none;
+    font-style: normal;text-align: center;
+}
+em {
+    margin-top: 5px;
+    font-style: italic;
+    text-align: center;
+}
+#tribute-link {
+    margin-top: 4rem;
+    font-weight: bold;
+    text-decoration: none;
+}
